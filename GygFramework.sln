@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GygFramework", "GygFramework\GygFramework.csproj", "{33E983D9-B20C-466C-B097-57FFB3A28C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GygTests", "GygTests\GygTests.csproj", "{D3C621E0-FE77-412F-83DC-40B0C86FBC32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E983D9-B20C-466C-B097-57FFB3A28C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E983D9-B20C-466C-B097-57FFB3A28C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E983D9-B20C-466C-B097-57FFB3A28C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E983D9-B20C-466C-B097-57FFB3A28C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C621E0-FE77-412F-83DC-40B0C86FBC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C621E0-FE77-412F-83DC-40B0C86FBC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C621E0-FE77-412F-83DC-40B0C86FBC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C621E0-FE77-412F-83DC-40B0C86FBC32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9399439-4859-4BDF-847F-94E7131BB46B}
+	EndGlobalSection
+EndGlobal
